@@ -1,0 +1,19 @@
+# Penutup
+Agar setiap orang mengetahuinya memerintahkan pengundangan Peraturan Daerah ini dengan menempatkannya dalam Lembaran Daerah Kabupaten Berau.
+Ditetapkan di Tanjung Redeb
+pada tanggal 9 Desember 2014
+BUPATI BERAU,
+ttd
+H. MAKMUR HAPK
+Diundangkan di Tanjung Redeb
+pada tanggal 9 Desember
+2014
+SEKRETARIS DAERAH
+KABUPATEN BERAU,
+ttd
+H. JONIE MARHANSYAH
+LEMBARAN DAERAH KABUPATEN BERAU TAHUN 2014 NOMOR 12
+NOREG PERATURAN DAERAH KABUPATEN BERAU TENTANG PENCABUTAN
+PERATURAN DAERAH KABUPATEN BERAU NOMOR 7 TAHUN 2009 TENTANG
+PEMBENTUKAN ORGANISASI DAN TATA KERJA PELAKSANA HARIAN BADAN
+NARKOTIKA KABUPATEN BERAU : (15/2014)
