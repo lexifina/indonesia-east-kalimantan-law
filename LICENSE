@@ -1,0 +1,18 @@
+Law texts
+
+The texts in this repository are Peraturan Daerah (Perda) of Provinsi Kalimantan Timur (Indonesia) as enacted, from the copies (salinan) published by
+JDIH Provinsi Kalimantan Timur (Biro Hukum Sekretariat Daerah Provinsi Kalimantan Timur) on https://jdih.kaltimprov.go.id.
+
+- Copyright: Undang-Undang Nomor 28 Tahun 2014 tentang Hak Cipta, Pasal 42:
+  "Tidak ada Hak Cipta atas hasil karya berupa: a. hasil rapat terbuka lembaga negara; b. peraturan perundang-undangan; c. pidato kenegaraan atau pidato pejabat Pemerintah; d. putusan pengadilan atau penetapan hakim; dan e. kitab suci atau simbol keagamaan."
+  ("There is no copyright in works consisting of: ... b. laws and regulations; ..."). A Peraturan Daerah Provinsi
+  (in Aceh, a Qanun Aceh) is one of the peraturan perundang-undangan listed in Undang-Undang Nomor 12 Tahun 2011,
+  Pasal 7(1).
+- The JDIH website carries no copyright line and no terms that restrict reuse of the regulations it publishes.
+- The texts are reproduced without change to their wording; only the arrangement (one file per Pasal, one paragraph
+  per line) is Lexifina's. Neither the Government of Provinsi Kalimantan Timur nor JDIH endorses this repository.
+
+Attribution: Source: JDIH Provinsi Kalimantan Timur (Biro Hukum Sekretariat Daerah Provinsi Kalimantan Timur), https://jdih.kaltimprov.go.id.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

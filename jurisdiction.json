@@ -1,0 +1,8 @@
+{
+  "path": "id-ki",
+  "code": "ID-KI",
+  "name": "East Kalimantan (Indonesia)",
+  "level": "country",
+  "repo": "https://github.com/lexifina/indonesia-east-kalimantan-law",
+  "build": "built: Peraturan Daerah (Perda) of Provinsi Kalimantan Timur as enacted, Indonesian text, from JDIH Provinsi Kalimantan Timur (Biro Hukum Sekretariat Daerah Provinsi Kalimantan Timur)"
+}

@@ -1,0 +1,299 @@
+{
+ "country": "ID-KI",
+ "acts": [
+  {
+   "slug": "perda-2013-002-penanggulangan-bencana-daerah",
+   "short": "Perda East Kalimantan 2/2013",
+   "title": "PERATURAN DAERAH PROVINSI KALIMANTAN TIMUR NOMOR 2 TAHUN 2013 TENTANG PENANGGULANGAN BENCANA DAERAH",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/peraturan-daerah-provinsi-kalimantan-timur-nomor-2-tahun-2013-tentang-penanggulangan-bencana-daerah",
+   "versions": [
+    {
+     "from": "2013-04-22",
+     "units": 121,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA_02_20131.pdf",
+     "sha256": "3eaf162a54491499a329adcbd27527ceb0856d302925045a068397d5b0aa4cd7"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2013-003",
+   "short": "Perda East Kalimantan 3/2013",
+   "title": "TANGGUNGJAWAB SOSIAL DAN LINGKUNGAN PERSEROAN TERBATAS SERTA PROGRAM KEMITRAAN DAN BINA LINGKUNGAN",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/tanggungjawab-sosial-dan-lingkungan-perseroan-terbatas-serta-program-kemitraan-dan-bina-lingkungan",
+   "versions": [
+    {
+     "from": "2013-04-22",
+     "units": 9,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA.03.2013.pdf",
+     "sha256": "d2087054f9aff34a6c0b67573e1f679a035499cf6454ecbab68083e460f45f28"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2013-004",
+   "short": "Perda East Kalimantan 4/2013",
+   "title": "PEJABAT PENYIDIK PEGAWAI NEGERI SIPIL DAERAH",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/pejabat-penyidik-pegawai-negeri-sipil-daerah",
+   "versions": [
+    {
+     "from": "2013-06-14",
+     "units": 17,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA.04.2013.pdf",
+     "sha256": "8d4ed6f9c6dc3ddcb137c3979092e8ec7e8e546b359b93d3e271e1ef5d0fc9a7"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2014-003",
+   "short": "Perda East Kalimantan 3/2014",
+   "title": "PENATAAN DAN PEMBINAAN PASAR TRADISIONAL, PUSAT PERBELANJAAN DAN TOKO MODERN",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/penataan-dan-pembinaan-pasar-tradisional-pusat-perbelanjaan-dan-toko-modern",
+   "versions": [
+    {
+     "from": "2014-06-17",
+     "units": 4,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA.03.2014a.pdf",
+     "sha256": "a7daebeaa8fa3064b8bbbd795edb7b962f7f7f551ec2213fad6f06930d186181"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2014-014",
+   "short": "Perda East Kalimantan 14/2014",
+   "title": "RETRIBUSI PERPANJANGAN IJIN MEMPEKERJAKAN TENAGA KERJA ASING",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/retribusi-perpanjangan-ijin-mempekerjakan-tenaga-kerja-asing",
+   "versions": [
+    {
+     "from": "2014-12-29",
+     "units": 9,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA.14.2014.pdf",
+     "sha256": "070fc2abf3668c791aa02a7ede9f3e41be0b9b9960b41ca0aef91898eddcd3d1"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2015-005",
+   "short": "Perda East Kalimantan 5/2015",
+   "title": "PENCEGAHAN PENYALAHGUNAAN INHALAN",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/pencegahan-penyalahgunaan-inhalan",
+   "versions": [
+    {
+     "from": "2015-09-23",
+     "units": 29,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA.5.2015.pdf",
+     "sha256": "57c65ae899e654c9663192baf5e57e8cc5ec2845a59d77ed8cfd2747430236cc"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2015-006",
+   "short": "Perda East Kalimantan 6/2015",
+   "title": "PEMBERIAN INSENTIF DAN PEMBERIAN KEMUDAHAN PENANAMAN MODAL DI DAERAH",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/pemberian-insentif-dan-pemberian-kemudahan-penanaman-modal-di-daerah",
+   "versions": [
+    {
+     "from": "2015-10-09",
+     "units": 34,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA.6.2015.pdf",
+     "sha256": "17bec56bf7c8c569f0b263728c7ccd61fcd9fe9e3f30a151d915610ba48936e4"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2015-007",
+   "short": "Perda East Kalimantan 7/2015",
+   "title": "PENYELENGGARAAN PERPUSTAKAAN",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/penyelenggaraan-perpustakaan",
+   "versions": [
+    {
+     "from": "2015-11-23",
+     "units": 42,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA.7.2015.pdf",
+     "sha256": "d3a05b83239de6c749c0f00a87b45a42942f0c5990f75de27d27fd5b347525ac"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2016-012-perlindungan-dan-pemenuhan-hak-hak-anak",
+   "short": "Perda East Kalimantan 12/2016",
+   "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI KALIMANTAN TIMUR NOMOR 6 TAHUN 2012 TENTANG PERLINDUNGAN DAN PEMENUHAN HAK-HAK ANAK",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/perubahan-atas-peraturan-daerah-provinsi-kalimantan-timur-nomor-6-tahun-2012-tentang-perlindungan-dan-pemenuhan-hak-hak-anak",
+   "versions": [
+    {
+     "from": "2016-12-14",
+     "units": 4,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA.12.2016.pdf",
+     "sha256": "c639f3d76c31f9ff0d254f04964722528f1d001358ec9b1e4232e1408b43b66e"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2016-014-tanggung-jawab-sosial-dan-lingkungan-perseroan-terbatas-serta-program",
+   "short": "Perda East Kalimantan 14/2016",
+   "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI KALIMANTAN TIMUR NOMOR 3 TAHUN 2013 TENTANG TANGGUNG JAWAB SOSIAL DAN LINGKUNGAN PERSEROAN TERBATAS SERTA PROGRAM KEMITRAAN DAN BINA LINGKUNGAN",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/perubahan-atas-peraturan-daerah-provinsi-kalimantan-timur-nomor-3-tahun-2013-tentang-tanggung-jawab-sosial-dan-lingkungan-perseroan-terbatas-serta-program-kemitraan-dan-bina-lingkungan",
+   "versions": [
+    {
+     "from": "2016-12-14",
+     "units": 4,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA.14.2016.pdf",
+     "sha256": "30ef359a018eab5e5c8548a1b4c6c0deb5639f4afc3b492b042e15817d1a1c3a"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2016-015-jasa-pelayanan-tera-tera-ulang-dan-kalibrasi-alat-alat-ukur-takar",
+   "short": "Perda East Kalimantan 15/2016",
+   "title": "PENCABUTAN PERATURAN DAERAH PROVINSI KALIMANTAN TIMUR NOMOR 12 TAHUN 2004 TENTANG JASA PELAYANAN TERA/TERA ULANG DAN KALIBRASI ALAT-ALAT UKUR, TAKAR, TIMBANGAN DAN PERLENGKAPAN DALAM WILAYAH PROVINSI KALIMANTAN TIMUR, PERATURAN DAERAH PROVINSI KALIMA",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/pencabutan-peraturan-daerah-provinsi-kalimantan-timur-nomor-12-tahun-2004-tentang-jasa-pelayanan-teratera-ulang-dan-kalibrasi-alat-alat-ukur-takar-timbangan-dan-perlengkapan-dalam-wilayah-provinsi-kalimantan-timur-peraturan-daerah-provinsi-kalima",
+   "versions": [
+    {
+     "from": "2016-12-14",
+     "units": 4,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA.15.2016.pdf",
+     "sha256": "8fbd20ccf1c8e0ea393395209c2a331cfea1c9365742a7c1af5699779a3a12d4"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2021-001-pembentukan-dan-susunan-perangkat-daerah-provinsi-kalimantan-timur",
+   "short": "Perda East Kalimantan 1/2021",
+   "title": "PERUBAHAN ATAS PERATURAN DAERAH NOMOR 9 TAHUN 2016 TENTANG PEMBENTUKAN DAN SUSUNAN PERANGKAT DAERAH PROVINSI KALIMANTAN TIMUR",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/perubahan-atas-peraturan-daerah-nomor-9-tahun-2016-tentang-pembentukan-dan-susunan-perangkat-daerah-provinsi-kalimantan-timur",
+   "versions": [
+    {
+     "from": "2021-01-25",
+     "units": 5,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA_1_2021.pdf",
+     "sha256": "438024d1be18dc6cbe30a87c0561381473fa3dafc1a4989c41b579399d5b1c83"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2022-002-penyelenggaraan-pembangunan-ketahanan-keluarga",
+   "short": "Perda East Kalimantan 2/2022",
+   "title": "PERATURAN DAERAH PROVINSI KALIMANTAN TIMUR NOMOR 2 TAHUN 2022 TENTANG PENYELENGGARAAN PEMBANGUNAN KETAHANAN KELUARGA",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/peraturan-daerah-provinsi-kalimantan-timur-nomor-2-tahun-2022-tentang-penyelenggaraan-pembangunan-ketahanan-keluarga",
+   "versions": [
+    {
+     "from": "2022-03-09",
+     "units": 12,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA_2_022.pdf",
+     "sha256": "395c22ebabcf743407e0bdc29366e2ba9dc01ba269d57e016b77f4377b409004"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2022-004-fasilitasi-pencegahan-dan-pemberantasan-penyalahgunaan-dan-peredaran",
+   "short": "Perda East Kalimantan 4/2022",
+   "title": "PERATURAN DAERAH PROVINSI KALIMANTAN TIMUR NOMOR 4 TAHUN 2022 TENTANG FASILITASI PENCEGAHAN DAN PEMBERANTASAN PENYALAHGUNAAN DAN PEREDARAN GELAP NARKOTIKA, PREKURSOR NARKOTIKA DAN PSIKOTROPIKA",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/peraturan-daerah-provinsi-kalimantan-timur-nomor-4-tahun-2022-tentang-fasilitasi-pencegahan-dan-pemberantasan-penyalahgunaan-dan-peredaran-gelap-narkotika-prekursor-narkotika-dan-psikotropika",
+   "versions": [
+    {
+     "from": "2022-09-06",
+     "units": 12,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA_4_2022.pdf",
+     "sha256": "4ea410d2a6e788847aa291eaba6dd37bf1b6b0a645bb7386be7e53555a62552c"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2022-008-kepemudaan",
+   "short": "Perda East Kalimantan 8/2022",
+   "title": "PERATURAN DAERAH PROVINSI KALIMANTAN TIMUR NOMOR 8 TAHUN 2022 TENTANG KEPEMUDAAN",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/peraturan-daerah-provinsi-kalimantan-timur-nomor-8-tahun-2022-tentang-kepemudaan",
+   "versions": [
+    {
+     "from": "2022-12-14",
+     "units": 45,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA_8_2022.pdf",
+     "sha256": "069fac7d10d38c93b99eb0a6e16f0e9f3d09097bd92d1ce9d429d932ccbbfc23"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2023-003-pencabutan-peraturan-daerah-nomor-08-tahun-2013-tentang",
+   "short": "Perda East Kalimantan 3/2023",
+   "title": "PERATURAN DAERAH PROVINSI KALIMANTAN TIMUR NOMOR 3 TAHUN 2023 TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 08 TAHUN 2013 TENTANG PENYELENGGARAAN REKLAMASI DAN PASCATAMBANG",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/peraturan-daerah-provinsi-kalimantan-timur-nomor-3-tahun-2023-tentang-pencabutan-peraturan-daerah-nomor-08-tahun-2013-tentang-penyelenggaraan-reklamasi-dan-pascatambang",
+   "versions": [
+    {
+     "from": "2023-08-22",
+     "units": 4,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA_3_2023.pdf",
+     "sha256": "a90a51a3460894c49f1df6c3ba02f9d6f98de3212638845451d22d24721f1af1"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2023-009-penyelenggaraan-pendidikan-pancasila-dan-wawasan-kebangsaan",
+   "short": "Perda East Kalimantan 9/2023",
+   "title": "PERATURAN DAERAH PROVINSI KALIMANTAN TIMUR NOMOR 9 TAHUN 2023 TENTANG PENYELENGGARAAN PENDIDIKAN PANCASILA DAN WAWASAN KEBANGSAAN",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/peraturan-daerah-provinsi-kalimantan-timur-nomor-9-tahun-2023-tentang-penyelenggaraan-pendidikan-pancasila-dan-wawasan-kebangsaan",
+   "versions": [
+    {
+     "from": "2023-11-29",
+     "units": 20,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA_9_2023.pdf",
+     "sha256": "463d3734548db12fd23df235385283504165d3fe1601975bd66cf836f366d91a"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-003-perubahan-bentuk-perusahaan-daerah-pertambangan-provinsi-kalimantan",
+   "short": "Perda East Kalimantan 3/2024",
+   "title": "PERATURAN DAERAH KALIMANTAN TIMUR NOMOR 3 TAHUN 2024 TENTANG PERUBAHAN BENTUK PERUSAHAAN DAERAH PERTAMBANGAN PROVINSI KALIMANTAN TIMUR MENJADI PT PERTAMBANGAN BARA KALTIM SEJAHTERA (PERSERODA)",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/peraturan-daerah-kalimantan-timur-nomor-3-tahun-2024-tentang-perubahan-bentuk-perusahaan-daerah-pertambangan-provinsi-kalimantan-timur-menjadi-pt-pertambangan-bara-kaltim-sejahtera-perseroda",
+   "versions": [
+    {
+     "from": "2024-02-20",
+     "units": 17,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA_3_2024_(1).pdf",
+     "sha256": "5cd1a59741eb306e316a4f0735aed54d42de1d24f96f99716b15c1d856c1b1c8"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-006-fasilitasi-pengembangan-pesantren",
+   "short": "Perda East Kalimantan 6/2024",
+   "title": "PERATURAN DAERAH PROVINSI KALIMANTAN TIMUR NOMOR 6 TAHUN 2024 TENTANG FASILITASI PENGEMBANGAN PESANTREN",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/peraturan-daerah-provinsi-kalimantan-timur-nomor-6-tahun-2024-tentang-fasilitasi-pengembangan-pesantren",
+   "versions": [
+    {
+     "from": "2024-06-18",
+     "units": 12,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA_6_2024.pdf",
+     "sha256": "a3e59e7e6a3da4ba3f6b1752dfd7a5db36b82ee2cd5bbf4fd67657b0fe0d4253"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-009-sistem-penanggulangan-bencana-kebakaran-hutan-dan-lahan",
+   "short": "Perda East Kalimantan 9/2024",
+   "title": "PERATURAN DAERAH PROVINSI KALIMANTAN TIMUR NOMOR 9 TAHUN 2024 TENTANG SISTEM PENANGGULANGAN BENCANA KEBAKARAN HUTAN DAN LAHAN",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/peraturan-daerah-provinsi-kalimantan-timur-nomor-9-tahun-2024-tentang-sistem-penanggulangan-bencana-kebakaran-hutan-dan-lahan",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 46,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA_9_2024.pdf",
+     "sha256": "79f59ec0294a157be7b443e6be0a847da536f2d95d652ec9620460ac61438dbe"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2024-010-susunan-kelembagaan-pengisian-jabatan-dan-masa-jabatan-kepala-desa",
+   "short": "Perda East Kalimantan 10/2024",
+   "title": "PERATURAN DAERAH PROVINSI KALIMANTAN TIMUR NOMOR 10 TAHUN 2024 TENTANG SUSUNAN KELEMBAGAAN, PENGISIAN JABATAN, DAN MASA JABATAN KEPALA DESA ADAT",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/peraturan-daerah-provinsi-kalimantan-timur-nomor-10-tahun-2024-tentang-susunan-kelembagaan-pengisian-jabatan-dan-masa-jabatan-kepala-desa-adat",
+   "versions": [
+    {
+     "from": "2024-12-02",
+     "units": 16,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/PERDA_10_2024.pdf",
+     "sha256": "d96e952322117ddee7bf9279528f75b20b47fc717c471f9e31f184fb7dc42d05"
+    }
+   ]
+  }
+ ]
+}
