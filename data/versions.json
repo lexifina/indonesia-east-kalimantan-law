@@ -294,6 +294,20 @@
      "sha256": "d96e952322117ddee7bf9279528f75b20b47fc717c471f9e31f184fb7dc42d05"
     }
    ]
+  },
+  {
+   "slug": "perda-2006-002-bank-pembangunan-daerah",
+   "short": "Perda East Kalimantan 2/2006",
+   "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI KALIMANTAN TIMUR NOMOR 02 TAHUN 2002 TENTANG BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR",
+   "url": "https://jdih.kaltimprov.go.id/dokumen/perubahan-perda-prov-kaltim-no-02-2002-ttg-bpd-kaltim",
+   "versions": [
+    {
+     "from": "2006-04-26",
+     "units": 5,
+     "source_url": "https://jdih.kaltimprov.go.id/storage/peraturan/Perda%20No.02%20Thn%202006%20PERUBAHAN%20PERDA%20PROV%20KALTIM%20NO%2002%202002%20TTG%20BPD%20KALTIM.pdf",
+     "sha256": "6c2f1fd8204d3127c883c4d9805e68cde4b123a55a42aa9dd7c996a04c01fab6"
+    }
+   ]
   }
  ]
 }

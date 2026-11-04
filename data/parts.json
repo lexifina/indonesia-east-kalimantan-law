@@ -25,6 +25,12 @@
     "perda-2024-010-susunan-kelembagaan-pengisian-jabatan-dan-masa-jabatan-kepala-desa"
    ],
    "sha256": "89f8565fbf4ab5a842dc1d748720d83d67c03b702f466380dc5484936ac7f26b"
+  },
+  "50-q361-bank-amendment.json": {
+   "acts": [
+    "perda-2006-002-bank-pembangunan-daerah"
+   ],
+   "sha256": "0d069223853c2038256059cf8a700d2810cafb0c99a90a3b33ed9f8e14fc319e"
   }
  },
  "schema": 1
