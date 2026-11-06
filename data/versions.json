@@ -296,6 +296,96 @@
    ]
   },
   {
+   "slug": "regencies/berau/perda-2011-001-pajak-daerah",
+   "unit": "berau",
+   "short": "Perda Berau Regency 1/2011",
+   "title": "PERATURAN DAERAH KABUPATEN BERAU NOMOR 1 TAHUN 2011 TENTANG PAJAK DAERAH",
+   "url": "https://jdih.beraukab.go.id/dokumen/view?id=554",
+   "versions": [
+    {
+     "from": "2011-01-14",
+     "units": 112,
+     "source_url": "https://jdih.beraukab.go.id/common/dokumen/2011pd6403001.pdf",
+     "sha256": "59af8af0592419d874bb8a13b405bbc4e1622542918102cc46e96dd1ec51355c"
+    }
+   ]
+  },
+  {
+   "slug": "regencies/berau/perda-2014-001-perubahan-atas-peraturan-daerah-kabupaten-berau-nomor-13-tahun-2011",
+   "unit": "berau",
+   "short": "Perda Berau Regency 1/2014",
+   "title": "PERATURAN DAERAH KABUPATEN BERAU NOMOR 1 TAHUN 2014 TENTANG PERUBAHAN ATAS PERATURAN DAERAH KABUPATEN BERAU NOMOR 13 TAHUN 2011 TENTANG RETRIBUSI PELAYANAN PASAR",
+   "url": "https://jdih.beraukab.go.id/dokumen/view?id=911",
+   "versions": [
+    {
+     "from": "2014-03-04",
+     "units": 4,
+     "source_url": "https://jdih.beraukab.go.id/common/dokumen/2014pd6403001.pdf",
+     "sha256": "2b548ac383dd6282ccf2ba2a5c7cd8bf32b0a5a3cf59bf33aa8cc07c0dafc0f0"
+    }
+   ]
+  },
+  {
+   "slug": "regencies/berau/perda-2014-004-penyidik-pegawai-negeri-sipil-kabupaten-berau",
+   "unit": "berau",
+   "short": "Perda Berau Regency 4/2014",
+   "title": "PERATURAN DAERAH KABUPATEN BERAU NOMOR 4 TAHUN 2014 TENTANG PENYIDIK PEGAWAI NEGERI SIPIL KABUPATEN BERAU",
+   "url": "https://jdih.beraukab.go.id/dokumen/view?id=914",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 42,
+     "source_url": "https://jdih.beraukab.go.id/common/dokumen/2014pd6403004.pdf",
+     "sha256": "52ed541562217951df6754877adfead8a3bb9ed5995d594e861c8e433a228faa"
+    }
+   ]
+  },
+  {
+   "slug": "regencies/berau/perda-2014-007-penambahan-penyertaan-modal-pemerintah-kabupaten-berau-kepada-pt-indo",
+   "unit": "berau",
+   "short": "Perda Berau Regency 7/2014",
+   "title": "PERATURAN DAERAH KABUPATEN BERAU NOMOR 7 TAHUN 2014 TENTANG PENAMBAHAN PENYERTAAN MODAL PEMERINTAH KABUPATEN BERAU KEPADA PT. INDO PUSAKA BERAU",
+   "url": "https://jdih.beraukab.go.id/dokumen/view?id=917",
+   "versions": [
+    {
+     "from": "2014-08-28",
+     "units": 7,
+     "source_url": "https://jdih.beraukab.go.id/common/dokumen/2014pd6403007.pdf",
+     "sha256": "08c45a39d3290ad4c9f39ae264a5e8f2074856f76ecb3a3617e4a875a51f579c"
+    }
+   ]
+  },
+  {
+   "slug": "regencies/berau/perda-2014-012-pencabutan-peraturan-daerah-kabupaten-berau-nomor-7-tahun-2009",
+   "unit": "berau",
+   "short": "Perda Berau Regency 12/2014",
+   "title": "PERATURAN DAERAH KABUPATEN BERAU NOMOR 12 TAHUN 2014 TENTANG PENCABUTAN PERATURAN DAERAH KABUPATEN BERAU NOMOR 7 TAHUN 2009 TENTANG PEMBENTUKAN ORGANISASI DAN TATA KERJA PELAKSANA HARIAN BADAN NARKOTIKA KABUPATEN BERAU",
+   "url": "https://jdih.beraukab.go.id/dokumen/view?id=920",
+   "versions": [
+    {
+     "from": "2014-12-09",
+     "units": 4,
+     "source_url": "https://jdih.beraukab.go.id/common/dokumen/2014pd6403012.pdf",
+     "sha256": "15d0347bb1edfb32f42880d553bac4c6704de780e2db2e9863539cea05c7c782"
+    }
+   ]
+  },
+  {
+   "slug": "regencies/berau/perda-2014-016-pembentukan-kampung-siduung-indah-kecamatan-segah-kabupaten-berau",
+   "unit": "berau",
+   "short": "Perda Berau Regency 16/2014",
+   "title": "PERATURAN DAERAH KABUPATEN BERAU NOMOR 16 TAHUN 2014 TENTANG PEMBENTUKAN KAMPUNG SIDUUNG INDAH KECAMATAN SEGAH KABUPATEN BERAU",
+   "url": "https://jdih.beraukab.go.id/dokumen/view?id=923",
+   "versions": [
+    {
+     "from": "2014-12-24",
+     "units": 11,
+     "source_url": "https://jdih.beraukab.go.id/common/dokumen/2014pd6403016.pdf",
+     "sha256": "67c65dc1e5276f62b7f969173e9e5318393ab1d4fe9a12bcc58615301967b52c"
+    }
+   ]
+  },
+  {
    "slug": "perda-2006-002-bank-pembangunan-daerah",
    "short": "Perda East Kalimantan 2/2006",
    "title": "PERUBAHAN ATAS PERATURAN DAERAH PROVINSI KALIMANTAN TIMUR NOMOR 02 TAHUN 2002 TENTANG BANK PEMBANGUNAN DAERAH KALIMANTAN TIMUR",

@@ -26,6 +26,17 @@
    ],
    "sha256": "89f8565fbf4ab5a842dc1d748720d83d67c03b702f466380dc5484936ac7f26b"
   },
+  "40-berau.json": {
+   "acts": [
+    "regencies/berau/perda-2011-001-pajak-daerah",
+    "regencies/berau/perda-2014-001-perubahan-atas-peraturan-daerah-kabupaten-berau-nomor-13-tahun-2011",
+    "regencies/berau/perda-2014-004-penyidik-pegawai-negeri-sipil-kabupaten-berau",
+    "regencies/berau/perda-2014-007-penambahan-penyertaan-modal-pemerintah-kabupaten-berau-kepada-pt-indo",
+    "regencies/berau/perda-2014-012-pencabutan-peraturan-daerah-kabupaten-berau-nomor-7-tahun-2009",
+    "regencies/berau/perda-2014-016-pembentukan-kampung-siduung-indah-kecamatan-segah-kabupaten-berau"
+   ],
+   "sha256": "8cdabd36419fd2f87c74c92383e476c78c567734ef61a36a1370500d7ecfc96f"
+  },
   "50-q361-bank-amendment.json": {
    "acts": [
     "perda-2006-002-bank-pembangunan-daerah"

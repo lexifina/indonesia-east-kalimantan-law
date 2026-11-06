@@ -3,5 +3,15 @@
  "name": "East Kalimantan (Indonesia)",
  "tz": "Asia/Makassar",
  "future_branch": "future",
- "publisher": "JDIH Provinsi Kalimantan Timur (Biro Hukum Sekretariat Daerah Provinsi Kalimantan Timur)"
+ "publisher": "JDIH Provinsi Kalimantan Timur (Biro Hukum Sekretariat Daerah Provinsi Kalimantan Timur)",
+ "units": [
+  {
+   "id": "berau",
+   "folder": "regencies/berau",
+   "name": "Kabupaten Berau",
+   "code": "ID-KI-BERAU",
+   "source": "jdih.beraukab.go.id",
+   "official_code": "64.03"
+  }
+ ]
 }
